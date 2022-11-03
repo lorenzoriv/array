@@ -13,3 +13,7 @@ puts students_weight.unshift
 student_play_sports = [true,false,false,true]
 # this allows the code to loop though every element in the array with only writting the code once.
 puts student_play_sports.each
+
+#Index position is the number each element in the array it is at and it always starts at 0
+#so in students = ["jake","jane","mary","chris"] jake would be at 0, jane at 1 ,mary at 2 and chris at 3
+#this just tells the code where and what each name is.
