@@ -17,3 +17,7 @@ puts student_play_sports.each
 #Index position is the number each element in the array it is at and it always starts at 0
 #so in students = ["jake","jane","mary","chris"] jake would be at 0, jane at 1 ,mary at 2 and chris at 3
 #this just tells the code where and what each name is.
+
+#students_age = [18,17,19,20]
+#students_age.clear
+#the clear method is pretty straight forward and clears all elements from the array
